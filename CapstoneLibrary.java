@@ -24,7 +24,7 @@ public class CapstoneLibrary {
 		}
 	}
 	
-	
+	//Shows all books within the database
 	private void showAll_books()  {
 		 
 			executionString = "select * from library_db";
