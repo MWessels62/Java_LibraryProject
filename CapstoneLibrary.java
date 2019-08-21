@@ -1,6 +1,7 @@
 import java.sql.*;
 //import java.util.*;
 import javax.swing.*;
+//Capstone library project
 
 public class CapstoneLibrary {
 	
