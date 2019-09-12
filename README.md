@@ -3,4 +3,4 @@ Hyperion Java project - create a library/bookstore app which allows you to query
 
 Code has been included to automatically start the MySQL server so the user doesnt need to do this before running the program
 
-Dependencies - MySQL and the JDBC driver
+<b>Dependencies</b> - MySQL and the JDBC driver
